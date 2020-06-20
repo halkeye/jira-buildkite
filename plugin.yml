@@ -1,0 +1,8 @@
+name: Jira Notifier
+description: Updates the status of tickets
+author: https://github.com/halkeye
+requirements: []
+configuration:
+  properties:
+    status:
+      type: string
